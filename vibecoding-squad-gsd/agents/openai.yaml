@@ -1,0 +1,5 @@
+interface:
+  display_name: "VibeCoding Squad GSD"
+  short_description: "Enixera squad workflow: PO→PM→SA→Dev→QA→Ship with GSD cards. Nattsu | Boo AI BootCamp."
+  default_prompt: "Activate VibeCoding Squad GSD. Identify the lifecycle phase, assign squad roles (PO, PM, BA, SA, Dev, QA, DevOps, CI/CD), and produce a GSD card with clear handoff."
+  credit: "Nattsu | Boo AI BootCamp"
